@@ -1,0 +1,511 @@
+50
+McDonald's
+Cubao
+9000000000
+dine-in
+cash
+american
+100 400
+0
+Jollibee
+Makati
+9000000001
+takeout
+debit card
+filipino
+105 405
+2
+Item 1 of Jollibee
+Item 2 of Jollibee
+Mang Inasal
+BGC
+9000000002
+grabfood
+credit card
+japanese
+110 410
+3
+Item 1 of Mang Inasal
+Item 2 of Mang Inasal
+Item 3 of Mang Inasal
+Kenny Rogers
+Alabang
+9000000003
+dine-in
+gcash
+italian
+115 415
+4
+Item 1 of Kenny Rogers
+Item 2 of Kenny Rogers
+Item 3 of Kenny Rogers
+Item 4 of Kenny Rogers
+Shakey's
+Manila
+9000000004
+takeout
+cash
+korean
+120 420
+0
+Burger King
+Cavite
+9000000005
+grabfood
+debit card
+chinese
+125 425
+1
+Item 1 of Burger King
+Popeyes
+Laguna
+9000000006
+dine-in
+credit card
+american
+130 430
+2
+Item 1 of Popeyes
+Item 2 of Popeyes
+Chowking
+Quezon City
+9000000007
+takeout
+gcash
+filipino
+135 435
+3
+Item 1 of Chowking
+Item 2 of Chowking
+Item 3 of Chowking
+Greenwich
+San Juan
+9000000008
+grabfood
+cash
+japanese
+140 440
+0
+Bonchon
+Pasig
+9000000009
+dine-in
+debit card
+italian
+145 445
+5
+Item 1 of Bonchon
+Item 2 of Bonchon
+Item 3 of Bonchon
+Item 4 of Bonchon
+Item 5 of Bonchon
+Army Navy
+Batangas
+9000000010
+takeout
+credit card
+korean
+150 450
+1
+Item 1 of Army Navy
+Yellow Cab
+La Union
+9000000011
+grabfood
+gcash
+chinese
+155 455
+2
+Item 1 of Yellow Cab
+Item 2 of Yellow Cab
+Wendy's
+Baguio
+9000000012
+dine-in
+cash
+american
+160 460
+0
+Tropical Hut
+Tagaytay
+9000000013
+takeout
+debit card
+filipino
+165 465
+4
+Item 1 of Tropical Hut
+Item 2 of Tropical Hut
+Item 3 of Tropical Hut
+Item 4 of Tropical Hut
+KFC
+Binan
+9000000014
+grabfood
+credit card
+japanese
+170 470
+5
+Item 1 of KFC
+Item 2 of KFC
+Item 3 of KFC
+Item 4 of KFC
+Item 5 of KFC
+Subway
+Cubao
+9000000015
+dine-in
+gcash
+italian
+175 475
+1
+Item 1 of Subway
+Starbucks
+Makati
+9000000016
+takeout
+cash
+korean
+180 480
+0
+Gong Cha
+BGC
+9000000017
+grabfood
+debit card
+chinese
+185 485
+3
+Item 1 of Gong Cha
+Item 2 of Gong Cha
+Item 3 of Gong Cha
+Serenitea
+Alabang
+9000000018
+dine-in
+credit card
+american
+190 490
+4
+Item 1 of Serenitea
+Item 2 of Serenitea
+Item 3 of Serenitea
+Item 4 of Serenitea
+8 Cuts
+Manila
+9000000019
+takeout
+gcash
+filipino
+195 495
+5
+Item 1 of 8 Cuts
+Item 2 of 8 Cuts
+Item 3 of 8 Cuts
+Item 4 of 8 Cuts
+Item 5 of 8 Cuts
+Tim Hortons
+Cavite
+9000000020
+grabfood
+cash
+japanese
+200 500
+0
+Domino's
+Laguna
+9000000021
+dine-in
+debit card
+italian
+205 505
+2
+Item 1 of Domino's
+Item 2 of Domino's
+Pizza Hut
+Quezon City
+9000000022
+takeout
+credit card
+korean
+210 510
+3
+Item 1 of Pizza Hut
+Item 2 of Pizza Hut
+Item 3 of Pizza Hut
+Tokyo Tokyo
+San Juan
+9000000023
+grabfood
+gcash
+chinese
+215 515
+4
+Item 1 of Tokyo Tokyo
+Item 2 of Tokyo Tokyo
+Item 3 of Tokyo Tokyo
+Item 4 of Tokyo Tokyo
+S&R
+Pasig
+9000000024
+dine-in
+cash
+american
+220 520
+0
+Max's
+Batangas
+9000000025
+takeout
+debit card
+filipino
+225 525
+1
+Item 1 of Max's
+Goldilocks
+La Union
+9000000026
+grabfood
+credit card
+japanese
+230 530
+2
+Item 1 of Goldilocks
+Item 2 of Goldilocks
+Red Ribbon
+Baguio
+9000000027
+dine-in
+gcash
+italian
+235 535
+3
+Item 1 of Red Ribbon
+Item 2 of Red Ribbon
+Item 3 of Red Ribbon
+Baliwag Lechon
+Tagaytay
+9000000028
+takeout
+cash
+korean
+240 540
+0
+Andok's
+Binan
+9000000029
+grabfood
+debit card
+chinese
+245 545
+5
+Item 1 of Andok's
+Item 2 of Andok's
+Item 3 of Andok's
+Item 4 of Andok's
+Item 5 of Andok's
+Zark's
+Cubao
+9000000030
+dine-in
+credit card
+american
+250 550
+1
+Item 1 of Zark's
+Mendokoro
+Makati
+9000000031
+takeout
+gcash
+filipino
+255 555
+2
+Item 1 of Mendokoro
+Item 2 of Mendokoro
+Ramen Nagi
+BGC
+9000000032
+grabfood
+cash
+japanese
+260 560
+0
+Yabu
+Alabang
+9000000033
+dine-in
+debit card
+italian
+265 565
+4
+Item 1 of Yabu
+Item 2 of Yabu
+Item 3 of Yabu
+Item 4 of Yabu
+Soban
+Manila
+9000000034
+takeout
+credit card
+korean
+270 570
+5
+Item 1 of Soban
+Item 2 of Soban
+Item 3 of Soban
+Item 4 of Soban
+Item 5 of Soban
+Vikings
+Cavite
+9000000035
+grabfood
+gcash
+chinese
+275 575
+1
+Item 1 of Vikings
+Mesa
+Laguna
+9000000036
+dine-in
+cash
+american
+280 580
+0
+Manam
+Quezon City
+9000000037
+takeout
+debit card
+filipino
+285 585
+3
+Item 1 of Manam
+Item 2 of Manam
+Item 3 of Manam
+Din Tai Fung
+San Juan
+9000000038
+grabfood
+credit card
+japanese
+290 590
+4
+Item 1 of Din Tai Fung
+Item 2 of Din Tai Fung
+Item 3 of Din Tai Fung
+Item 4 of Din Tai Fung
+Conti's
+Pasig
+9000000039
+dine-in
+gcash
+italian
+295 595
+5
+Item 1 of Conti's
+Item 2 of Conti's
+Item 3 of Conti's
+Item 4 of Conti's
+Item 5 of Conti's
+Mary Grace
+Batangas
+9000000040
+takeout
+cash
+korean
+300 600
+0
+Italianni's
+La Union
+9000000041
+grabfood
+debit card
+chinese
+305 605
+2
+Item 1 of Italianni's
+Item 2 of Italianni's
+Banapple
+Baguio
+9000000042
+dine-in
+credit card
+american
+310 610
+3
+Item 1 of Banapple
+Item 2 of Banapple
+Item 3 of Banapple
+Peri-Peri
+Tagaytay
+9000000043
+takeout
+gcash
+filipino
+315 615
+4
+Item 1 of Peri-Peri
+Item 2 of Peri-Peri
+Item 3 of Peri-Peri
+Item 4 of Peri-Peri
+Racks
+Binan
+9000000044
+grabfood
+cash
+japanese
+320 620
+0
+Sizzling Plate
+Cubao
+9000000045
+dine-in
+debit card
+italian
+325 625
+1
+Item 1 of Sizzling Plate
+Gringo
+Makati
+9000000046
+takeout
+credit card
+korean
+330 630
+2
+Item 1 of Gringo
+Item 2 of Gringo
+JT's Manukan
+BGC
+9000000047
+grabfood
+gcash
+chinese
+335 635
+3
+Item 1 of JT's Manukan
+Item 2 of JT's Manukan
+Item 3 of JT's Manukan
+Lugang
+Alabang
+9000000048
+dine-in
+cash
+american
+340 640
+0
+Cafe Adriatico
+Manila
+9000000049
+takeout
+debit card
+filipino
+345 645
+5
+Item 1 of Cafe Adriatico
+Item 2 of Cafe Adriatico
+Item 3 of Cafe Adriatico
+Item 4 of Cafe Adriatico
+Item 5 of Cafe Adriatico

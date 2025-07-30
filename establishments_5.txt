@@ -1,0 +1,50 @@
+5
+McDonald's
+Cubao
+9000000000
+dine-in
+cash
+american
+100 400
+0
+Jollibee
+Makati
+9000000001
+takeout
+debit card
+filipino
+105 405
+2
+Item 1 of Jollibee
+Item 2 of Jollibee
+Mang Inasal
+BGC
+9000000002
+grabfood
+credit card
+japanese
+110 410
+3
+Item 1 of Mang Inasal
+Item 2 of Mang Inasal
+Item 3 of Mang Inasal
+Kenny Rogers
+Alabang
+9000000003
+dine-in
+gcash
+italian
+115 415
+4
+Item 1 of Kenny Rogers
+Item 2 of Kenny Rogers
+Item 3 of Kenny Rogers
+Item 4 of Kenny Rogers
+Shakey's
+Manila
+9000000004
+takeout
+cash
+korean
+120 420
+0
