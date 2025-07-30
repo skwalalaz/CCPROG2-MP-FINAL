@@ -1,5 +1,5 @@
-#ifndef HEADER_H
-#define HEADER_H
+#ifndef ANT48090_LUC46829_HEADER_H
+#define ANT48090_LUC46829_HEADER_H
 
 #include <stdio.h>
 #include <string.h>
