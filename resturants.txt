@@ -1,0 +1,53 @@
+5
+Mcdo
+binan
+12341
+takeout
+debit card
+american
+50 90
+1
+big mac
+Jollibee
+cavite
+54322
+dine-in
+gcash
+filipino
+100 500
+3
+yum burger
+spagehetti
+fries
+Mang inasal
+batangas
+12343
+takeout
+cash
+pinoy
+99 200
+2
+unli rice
+chicken
+Burger King
+La union
+123444
+grabfood
+gcash
+american
+150 300
+1
+Whopper
+Popeyes
+Alabang
+99995
+dine-in
+cash
+american
+180 500
+5
+Chicken sandwich
+Rice meal
+Ice cream
+Cake
+Bucket of Chicken
